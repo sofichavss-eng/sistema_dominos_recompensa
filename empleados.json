@@ -1,0 +1,22 @@
+{
+  "juan perez": {"puntos": 820, "ventas": 3200, "puntualidad": 95, "servicio": 90, "historial": []},
+  "maria lopez": {"puntos": 430, "ventas": 2100, "puntualidad": 88, "servicio": 92, "historial": []},
+  "lara chavez": {"puntos": 500, "ventas": 2500, "puntualidad": 94, "servicio": 91, "historial": []},
+  "andrés vega": {"puntos": 410, "ventas": 980, "puntualidad": 93, "servicio": 87, "historial": []},
+  "valeria rojas": {"puntos": 1690, "ventas": 1380, "puntualidad": 96, "servicio": 91, "historial": []},
+  "diego ramírez": {"puntos": 320, "ventas": 900, "puntualidad": 92, "servicio": 88, "historial": []},
+  "ana gutiérrez": {"puntos": 790, "ventas": 1490, "puntualidad": 99, "servicio": 94, "historial": []},
+  "miguel castro": {"puntos": 120, "ventas": 1210, "puntualidad": 94, "servicio": 89, "historial": []},
+  "paola herrera": {"puntos": 860, "ventas": 1600, "puntualidad": 97, "servicio": 96, "historial": []},
+  "javier molina": {"puntos": 450, "ventas": 1050, "puntualidad": 91, "servicio": 86, "historial": []},
+  "camila díaz": {"puntos": 200, "ventas": 1340, "puntualidad": 95, "servicio": 90, "historial": []},
+  "ricardo flores": {"puntos": 1030, "ventas": 1400, "puntualidad": 96, "servicio": 92, "historial": []},
+  "elena martínez": {"puntos": 575, "ventas": 1280, "puntualidad": 93, "servicio": 91, "historial": []},
+  "natalia ruiz": {"puntos": 640, "ventas": 1360, "puntualidad": 94, "servicio": 90, "historial": []},
+  "fernando silva": {"puntos": 780, "ventas": 1500, "puntualidad": 97, "servicio": 93, "historial": []},
+  "patricia ramos": {"puntos": 1020, "ventas": 1520, "puntualidad": 98, "servicio": 95, "historial": []},
+  "julio vargas": {"puntos": 1615, "ventas": 1300, "puntualidad": 94, "servicio": 90, "historial": []},
+  "rosa aguilar": {"puntos": 735, "ventas": 1420, "puntualidad": 97, "servicio": 93, "historial": []},
+  "luis delgado": {"puntos": 2000, "ventas": 1150, "puntualidad": 91, "servicio": 87, "historial": []},
+  "diana fuentes": {"puntos": 100, "ventas": 1480, "puntualidad": 98, "servicio": 94, "historial": []}
+}
